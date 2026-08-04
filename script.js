@@ -56,7 +56,7 @@ generateButton.addEventListener("click", function(){
 
     result.innerHTML =
     `
-    Your Guitar DNA path:
+    Your Tone & Theory path:
     <br><br>
     Based on your interest in ${artists},
     we'll help you develop your ${style} playing
