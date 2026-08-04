@@ -1,4 +1,8 @@
-## Hi there 👋
+## Tone & Theory is a guitar learning platform built around one idea: great guitar playing is about more than learning notes.
+
+We analyse the songs, sounds and creative choices that shaped legendary guitarists, breaking down the techniques, theory and tones behind iconic performances.
+
+From Hendrix's expressive phrasing to the harmony behind a great chord progression, Tone & Theory helps guitarists understand why music works, and how to use those ideas to create their own voice.
 
 <!--
 **ToneAndTheory/ToneAndTheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
